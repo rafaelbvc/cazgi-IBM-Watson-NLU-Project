@@ -16,4 +16,6 @@
 
 ### The “/text/emotion” end point is implemented in the sentimentAnalyzeServer/sentimentAnalyzerServer.js file:heavy_check_mark:
 
+#### Working at: <https://rafaelvendramini-488-sentiment-analyzer-brave-cat-cm.mybluemix.net/> 🛰️
+
 #### By Rafael Barbosa Vendramini Costa :coffee:
