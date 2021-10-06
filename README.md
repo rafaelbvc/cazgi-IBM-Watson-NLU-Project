@@ -15,3 +15,5 @@
 ### The “text/sentiment” end point is implemented in the sentimentAnalyzeServer/sentimentAnalyzerServer.js file:heavy_check_mark:
 
 ### The “/text/emotion” end point is implemented in the sentimentAnalyzeServer/sentimentAnalyzerServer.js file:heavy_check_mark:
+
+#### By Rafael Barbosa Vendramini Costa :coffee:
