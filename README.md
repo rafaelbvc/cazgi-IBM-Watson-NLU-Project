@@ -19,3 +19,5 @@
 #### Working at: <https://rafaelvendramini-488-sentiment-analyzer-brave-cat-cm.mybluemix.net/> 🛰️
 
 #### By Rafael Barbosa Vendramini Costa :coffee:
+
+###>>>>>>>>>>Off because free server time expired!<<<<<<<<<<<<
